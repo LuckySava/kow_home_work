@@ -26,6 +26,7 @@ a {
 .header img {
     width: 35%;
     text-align: center;
+    margin-top: 10px;
 }
 .header > p {
     font-size: 29px;
@@ -80,3 +81,8 @@ a {
     color: #0a6285;
     font-weight: 900;
 }
+.dz .block:visited {
+    background: rgb(255, 163, 119);
+}
+
+
