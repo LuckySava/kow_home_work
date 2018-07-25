@@ -1,0 +1,1 @@
+Jennifer's web site made with the help for SCSS
